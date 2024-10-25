@@ -1,24 +1,24 @@
-Travel Tide ✈ Optimizing Customer Engagement via Personalized Perks
-Introduction;
+# Travel Tide ✈ Optimizing Customer Engagement via Personalized Perks
+## Introduction;
 "Enhancing Customer Loyalty Through Data-Driven Rewards"
-Objective: This project focuses on identifying customer segments based on their travel behaviors and assigning tailored rewards to enhance satisfaction and engagement.
+#### Objective: This project focuses on identifying customer segments based on their travel behaviors and assigning tailored rewards to enhance satisfaction and engagement.
 
-Purpose: By offering personalized perks, Travel Tide aims to increase customer loyalty,improve booking rates,and attract more frequent travelers.
+#### Purpose: By offering personalized perks, Travel Tide aims to increase customer loyalty,improve booking rates,and attract more frequent travelers.
 
-Methodology
-High-Level Takeaways
+## Methodology
+#### High-Level Takeaways
 
 "Key Insights from Behavioral Data"
 
-Customer Segments:
+### Customer Segments:
 
 Using Travel Tide's historical booking and session data, i identified Six key customer groups.
 
-Booking Behavior:
+#### Booking Behavior:
 
 Each segment has unique travel patterns, such as frequency of travel, trip cancellation rates, average spending on bookings etc.
 
-Reward Perks:
+#### Reward Perks:
 
 Tailored perks were created for each segment to drive engagement and foster long-term relationships with customers.
 
@@ -27,15 +27,15 @@ Tailored perks were created for each segment to drive engagement and foster long
 
 Travel Preferences"**
 
-Family-Oriented Travelers:
+#### Family-Oriented Travelers:
 
 Characterized by longer stays and multiple rooms. Often book trips for family vacations.
 
-Assigned Perk:
+#### Assigned Perk:
 
 Free Checked Bag (catering to family needs).
 
-Assigned Perk:
+#### Assigned Perk:
 
 Free Checked Bag** (catering to family needs).
 
@@ -59,7 +59,7 @@ Moderate Travelers: Moderate Travelers typically book more than three trips annu
 
 These travelers often balance personal and work trips and are likely to seek convenience during their journeys.
 
-Assigned Perk:
+#### Assigned Perk:
 
 This perk is especially appealing to those who seek comfort and time-saving advantages without needing luxury benefits.
 
@@ -68,37 +68,37 @@ Perks Assignment Strategy
 
 We strategically aligned perks with the behavioral patterns of each customer group. Example:
 
-Family Travelers:
+#### Family Travelers:
 
 Benefit from perks like free checked bags, which accommodate family needs.
 
-Budget Travelers:
+#### Budget Travelers:
 
 Attracted by exclusive discounts, improving retention and conversion.
 
 
 
-Links;
-Tableau Dashboard
+#### Links;
+#### Tableau Dashboard
 
-Presantation slides & video
+#### Presantation slides & video
 
-Customer Group Distribution:
+#### Customer Group Distribution:
 Percentage of users in each segment.
 
 Screenshot 2024-09-05 at 17.46.35.png
 
-Booking Behavior
+#### Booking Behavior
 Conversion rates, cancellation rates, and average booking prices.
 
 Screenshot 2024-09-06 at 14.33.44.png
 
-Geographical map
+#### Geographical map
 Distribution of users based on home countries or cities.
 
 Screenshot 2024-09-06 at 14.35.50.png
 
-Next Steps for Travel Tide: 💪
+##### Next Steps for Travel Tide: 💪
 Actionable Steps to Enhance Services
 1. Launch the Rewards Program: Implement the tailored perks based on the customer segmentation analysis.
 
@@ -108,14 +108,14 @@ Actionable Steps to Enhance Services
 
 4. Expand Marketing: Use insights from the data to target high-potential segments (e.g., frequent travelers, high spenders) with customized marketing campaigns.
 
-Conclusion
+### Conclusion
 A Data-Driven Approach to Customer Retention"
 
-Key Point:
+#### Key Point:
 
 By leveraging customer data, Travel Tide can now offer personalized, value-driven perks that will improve user satisfaction, foster loyalty, and increase overall revenue. Looking Forward: This rewards program is just the beginning. We’ll continue analyzing customer behaviors to offer even more personalized services in the future.
 
-SQL code
+### SQL code
 Below is the final code for the cohort used the analysis
 
 -- Step 1: Filtered Sessions on Elena's suggested timeframe > Jan 4 2023 & Ids of Users with > 7 Sessions
